@@ -1,0 +1,23 @@
+@media (max-width: 575px) {
+  .footer__copyright {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
+
+@media (min-width: 576px) {
+  .footer {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+@media (min-width: 1024px) {
+  .footer {
+    margin-top: 50px;
+  }
+}
+
+.footer__copyright {
+  color: #696969;
+}
