@@ -4,6 +4,5 @@
     justify-content: center;
     grid-template-columns: repeat(3, 33%);
     grid-template-rows: auto;
-    cursor: pointer;
   }
 }
