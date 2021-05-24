@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/UnifeedCodewellChallenge/static/css/main.35131325.chunk.css",
+    "main.js": "/UnifeedCodewellChallenge/static/js/main.7814dd0c.chunk.js",
+    "main.js.map": "/UnifeedCodewellChallenge/static/js/main.7814dd0c.chunk.js.map",
+    "runtime-main.js": "/UnifeedCodewellChallenge/static/js/runtime-main.74925cf5.js",
+    "runtime-main.js.map": "/UnifeedCodewellChallenge/static/js/runtime-main.74925cf5.js.map",
+    "static/js/2.2ad8c03d.chunk.js": "/UnifeedCodewellChallenge/static/js/2.2ad8c03d.chunk.js",
+    "static/js/2.2ad8c03d.chunk.js.map": "/UnifeedCodewellChallenge/static/js/2.2ad8c03d.chunk.js.map",
+    "index.html": "/UnifeedCodewellChallenge/index.html",
+    "static/css/main.35131325.chunk.css.map": "/UnifeedCodewellChallenge/static/css/main.35131325.chunk.css.map",
+    "static/js/2.2ad8c03d.chunk.js.LICENSE.txt": "/UnifeedCodewellChallenge/static/js/2.2ad8c03d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/UnifeedCodewellChallenge/static/media/Manrope-VariableFont_wght.fca742de.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74925cf5.js",
+    "static/js/2.2ad8c03d.chunk.js",
+    "static/css/main.35131325.chunk.css",
+    "static/js/main.7814dd0c.chunk.js"
+  ]
+}
