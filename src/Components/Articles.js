@@ -18,7 +18,7 @@ function Articles() {
     {
       title: "7 Tips for Organic Traffic",
       imageUrl: "./images/Article 1 Image.png",
-      imageAlt: "Mobile screen showcasing Twitter app logo",
+      imageAlt: "other text",
       avatarUrl: "./images/User Avatar-1.png",
       description:
         "From SEO to integrating with Paid Advertising, this article covers it all.",

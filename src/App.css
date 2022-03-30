@@ -1,13 +1,3 @@
-@font-face {
-  font-family: "Manrope";
-  src: url("./fonts/Manrope-VariableFont_wght.ttf") format ("truetype");
-}
-
-* {
-  margin: 0;
-  font-family: "Manrope", "Verdana", "Times New Roman";
-}
-
 @media (max-width: 575px) {
   .app {
     margin: 30px 30px 30px 30px;
